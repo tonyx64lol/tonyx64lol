@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Python, JS**
 
-- 📫 Contact me **Discord: tonyx64.exe**
+- 📫 Contact me on discord: **tonyx64.exe**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
